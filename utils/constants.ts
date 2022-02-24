@@ -1,2 +1,2 @@
-export const PROJECT_NAME = 'Skulls In Love';
+export const PROJECT_NAME = 'NFTS';
 export const PAGE_SIZE = 10;
